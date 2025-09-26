@@ -1,0 +1,18 @@
+
+flosnap_model/finetuned_clip_model/model.safetensors
+
+# Gizli ortam değişkenleri
+.venv/
+
+# Büyük resimler
+ayakkabi_scraper/ayakkabi_resimleri/
+
+# Büyük model dosyaları
+flosnap_model/large_model_files/
+*.h5
+*.pt
+*.zip
+
+# Sistem dosyaları
+*.DS_Store
+Thumbs.db
